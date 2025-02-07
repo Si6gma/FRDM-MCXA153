@@ -1,0 +1,4 @@
+/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/CMSIS/Core/Include/./core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/CMSIS/Core/Include/./core_cm33.h:3108:26:SysTick_Config	16	static
+/Users/neivmalaviya/Code/FRDM-MCXA153/Examples/frdmmcxa153_ese_general_examples_basics_getting_started/main.c:54:5:main	8	static
+/Users/neivmalaviya/Code/FRDM-MCXA153/Examples/frdmmcxa153_ese_general_examples_basics_getting_started/main.c:91:6:SysTick_Handler	4	static
