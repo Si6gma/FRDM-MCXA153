@@ -1,8 +1,0 @@
-# ninja log v6
-2	114	1738934699762935366	CMakeFiles/ese_general_examples_basics_getting_started.elf.dir/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/devices/MCXA153/gcc/startup_MCXA153.S.obj	d1a4ca1f20c39304
-3	115	1738934699764486413	CMakeFiles/ese_general_examples_basics_getting_started.elf.dir/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/devices/MCXA153/utilities/fsl_memcpy.S.obj	e96fa55158d39a9d
-3	173	1738934699763983606	CMakeFiles/ese_general_examples_basics_getting_started.elf.dir/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/devices/MCXA153/utilities/fsl_sbrk.c.obj	aea67e07389b4f41
-2	174	1738934699763794642	CMakeFiles/ese_general_examples_basics_getting_started.elf.dir/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/devices/MCXA153/utilities/fsl_syscall_stub.c.obj	fd7feba14faed6e2
-2	199	1738934699763642929	CMakeFiles/ese_general_examples_basics_getting_started.elf.dir/Users/neivmalaviya/Code/FRDM-MCXA153/SDK/devices/MCXA153/system_MCXA153.c.obj	40d973f1e949967a
-0	207	1738934699761628244	CMakeFiles/ese_general_examples_basics_getting_started.elf.dir/Users/neivmalaviya/Code/FRDM-MCXA153/Examples/frdmmcxa153_ese_general_examples_basics_getting_started/main.c.obj	60a05d34b0642f04
-207	293	1738934699968439823	ese_general_examples_basics_getting_started.elf	8f36dda53bf2b808
