@@ -2,3 +2,4 @@
 SDK/
 .DS_Store
 **/armgcc/
+**/__repo__/
