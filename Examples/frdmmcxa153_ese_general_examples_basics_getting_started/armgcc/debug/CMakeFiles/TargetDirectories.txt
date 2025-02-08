@@ -1,3 +1,0 @@
-/Users/neivmalaviya/Code/FRDM-MCXA153/Examples/frdmmcxa153_ese_general_examples_basics_getting_started/armgcc/debug/CMakeFiles/ese_general_examples_basics_getting_started.elf.dir
-/Users/neivmalaviya/Code/FRDM-MCXA153/Examples/frdmmcxa153_ese_general_examples_basics_getting_started/armgcc/debug/CMakeFiles/edit_cache.dir
-/Users/neivmalaviya/Code/FRDM-MCXA153/Examples/frdmmcxa153_ese_general_examples_basics_getting_started/armgcc/debug/CMakeFiles/rebuild_cache.dir
