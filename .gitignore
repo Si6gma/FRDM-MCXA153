@@ -1,5 +1,5 @@
 
-SDK/
+SDK_24/
 .DS_Store
-# **/armgcc/
-# **/__repo__/
+**/__repo__/
+**/armgcc/debug
