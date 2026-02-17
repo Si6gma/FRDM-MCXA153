@@ -1,5 +1,45 @@
+# Build artifacts
+**/debug/
+**/release/
+**/Debug/
+**/Release/
+**/armgcc/debug/
+**/armgcc/release/
+**/armgcc/CMakeFiles/
+**/armgcc/CMakeCache.txt
+**/armgcc/Makefile
+**/armgcc/cmake_install.cmake
+**/armgcc/build.ninja
+**/armgcc/build_log.txt
+**/*.elf
+**/*.bin
+**/*.hex
+**/*.map
+**/*.lst
+**/*.o
+**/*.a
 
-SDK_24/
-.DS_Store
+# IDE files
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+*.launch
+*.jlink
+
+# Symbolic links (SDK references)
 **/__repo__/
-**/armgcc/debug
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
+*.swp
+*.swo
+
+# MCUXpresso specific
+.mex
+*.mex
